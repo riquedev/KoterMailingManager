@@ -15,12 +15,6 @@ The main objective is to guarantee the security of your data and that of your cu
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Functionalities
 
 - Dark and light themes
